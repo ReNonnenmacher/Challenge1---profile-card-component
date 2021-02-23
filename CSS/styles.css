@@ -1,0 +1,98 @@
+body {
+  font-family: 'Kumbh Sans', sans-serif;
+  font-size: 18px;
+  text-align: center;
+  background-color: hsl(185, 75%, 39%);
+}
+
+h3 {
+  color: hsl(229, 23%, 23%);
+}
+
+h4 {
+  margin-top: 10px;
+  font-weight: 300;
+  color:hsl(227, 10%, 46%);
+}
+
+p {
+  display: inline-block;
+  font-size: 14px;
+  margin-bottom: 25px;
+  margin-top: 0;
+  width: 30%;
+  color: hsl(0, 0%, 59%);
+}
+
+hr{
+  height:0;
+  border-color: #e6e6e6;
+  border-style: solid none none;
+
+}
+
+.age {
+  font-weight: 300;
+  color: hsl(227, 10%, 46%);
+}
+
+.background-bottom-circle {
+  position: absolute;
+  bottom: -65%;
+  right: -25%;
+}
+
+.background-top-circle {
+  position: absolute;
+  top: -65%;
+  left: -25%;
+}
+
+.card {
+
+  position: relative;
+  left: 36%;
+  width: 26.2%;
+  margin-top: 12%;
+  border-radius: 15px;
+  border-style: hidden;
+  background-color: white;
+  box-shadow: 10px 10px 50px #137c86, -10px 0 50px  #137c86;
+}
+
+.card-background-pattern {
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+}
+
+.name {
+  margin-top: 80px;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.right-ball {
+  position: absolute;
+  right: -30%;
+  bottom: -30%;
+}
+
+.social-info {
+  display: inline-block;
+  margin-bottom: 5px;
+  width: 30%;
+  font-weight: 700;
+  color: hsl(229, 23%, 23%);
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.victor-profile-pic {
+  border-radius: 50%;
+  position: absolute;
+  left: 125px;
+  top: 90px;
+  border-style: solid;
+  border-color: white;
+  border-width: medium;
+}
